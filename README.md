@@ -1,0 +1,2 @@
+# Nix
+My Nix configuration
